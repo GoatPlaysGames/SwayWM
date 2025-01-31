@@ -1,0 +1,2 @@
+# SwayWM
+Sway + Util dotfiles
