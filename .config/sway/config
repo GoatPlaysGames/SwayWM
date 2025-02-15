@@ -76,6 +76,8 @@ output * bg ~/Pictures/background.jpg fill
 
     # Start your Launcher
     bindsym $mod+d exec $menu
+    # Media Play/Pause (depending on keyboad, you will want to change this)
+    bindsym $mod+Space exec "playerctl play-pause
 
     # Drag floating windows by holding down $mod and left mouse button.
     # Resize them with right mouse button + $mod.
